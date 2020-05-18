@@ -13,5 +13,5 @@
         "esModuleInterop": true,
         "types": ["./node_modules/@types/function-bind"]
     },
-    "exclude": ["node_modules", "dist", "examples"]
+    "exclude": ["node_modules"]
 }
