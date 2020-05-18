@@ -11,7 +11,7 @@ ts-has is [has](https://github.com/tarruda/has) for typescript
 <img src="https://img.shields.io/npm/dm/ts-has" alt="NPM Downloads" /></a>
 <a href="https://github.com/yoicalsin/ts-has" target="_blank">
 <img src="https://s3.amazonaws.com/assets.coveralls.io/badges/coveralls_95.svg" alt="Coverage" /></a>
-<a href="https://github.com/yoicalsin/ts-has"><img src="https://img.shields.io/badge/Github%20Page-ts-has-yellow?style=flat-square&logo=github" /></a>
+<a href="https://github.com/yoicalsin/ts-has"><img src="https://img.shields.io/badge/Github%20Page-ts.has-yellow?style=flat-square&logo=github" /></a>
 <a href="https://github.com/yoicalsin"><img src="https://img.shields.io/badge/Author-Yoni%20Calsin-blueviolet?style=flat-square&logo=appveyor" /></a>
 <a href="https://twitter.com/yoicalsin" target="_blank">
 <img src="https://img.shields.io/twitter/follow/yoicalsin.svg?style=social&label=Follow"></a>
