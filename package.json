@@ -1,0 +1,32 @@
+{
+    "name": "ts-has",
+    "version": "1.0.4",
+    "description": "Object.prototype.hasOwnProperty.call shortcut for typescript, ts-has",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/yoicalsin/ts-has.git"
+    },
+    "keywords": [
+        "has",
+        "ts-has",
+        "hasOwnProperty",
+        "Object"
+    ],
+    "devDependencies": {
+        "@types/function-bind": "^1.1.3",
+        "@types/node": "^13.9.0"
+    },
+    "author": "Yoni Calsin <helloyonicb@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/yoicalsin/ts-has/issues"
+    },
+    "homepage": "https://github.com/yoicalsin/ts-has#readme",
+    "dependencies": {
+        "function-bind": "^1.1.1"
+    }
+}
